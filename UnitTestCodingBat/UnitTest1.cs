@@ -9,22 +9,26 @@ namespace UnitTestCodingBat
     {
         [TestMethod]
         public void TestMethod1()
-        {        
-            Assert.AreEqual(3, Program.contoh());
+        {
+            Assert.AreEqual("codey", Program.changeXY("codex"));
         }
 
 
         [TestMethod]
         public void TestMethod2()
         {
-            
+            Assert.AreEqual("yyhiyy", Program.changeXY("xxhixx"));
         }
 
 
         [TestMethod]
         public void TestMethod3()
         {
-            
+            Assert.AreEqual("yhiyhiy", Program.changeXY("xhixhix"));
+            Assert.AreEqual("hiy", Program.changeXY("hiy"));
+            Assert.AreEqual("h", Program.changeXY("h"));
+            Assert.AreEqual("y", Program.changeXY("x"));
+            Assert.AreEqual("", Program.changeXY(""));
         }
     }
 }
