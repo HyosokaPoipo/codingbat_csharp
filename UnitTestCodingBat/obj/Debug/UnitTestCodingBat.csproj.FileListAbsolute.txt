@@ -1,0 +1,7 @@
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\obj\Debug\UnitTestCodingBat.csprojResolveAssemblyReference.cache
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\bin\Debug\UnitTestCodingBat.dll
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\bin\Debug\UnitTestCodingBat.pdb
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\bin\Debug\Codingbat_csharp.exe
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\bin\Debug\Codingbat_csharp.pdb
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\obj\Debug\UnitTestCodingBat.dll
+E:\C Sharp\SourceCode\Console\Codingbat_csharp\UnitTestCodingBat\obj\Debug\UnitTestCodingBat.pdb

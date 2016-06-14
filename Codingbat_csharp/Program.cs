@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace Codingbat_csharp
 {
-    class Program
+    public class Program
     {
+        public Program()
+        { 
+        
+        }
         static void Main(string[] args)
         {
 
