@@ -49,8 +49,11 @@ namespace Codingbat_csharp
             //stop condition
             if (str.Length < 2) return 0;
 
-
-            return 0;
+            //Process
+            int index = str.IndexOf("hi");
+            if (index < 0) return 0;
+            return 1 + countHi(str.Substring(index + 1, str.Length - (1 + index)));
+           
         }
     }
 
