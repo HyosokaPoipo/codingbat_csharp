@@ -1,5 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Codingbat_csharp;
 
 namespace UnitTestCodingBat
 {
@@ -9,7 +10,7 @@ namespace UnitTestCodingBat
         [TestMethod]
         public void TestMethod1()
         {        
-            Assert.AreEqual(3, 3);
+            Assert.AreEqual(3, Program.contoh());
         }
 
 

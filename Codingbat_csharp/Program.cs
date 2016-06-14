@@ -18,8 +18,26 @@ namespace Codingbat_csharp
 
 
             Console.ReadLine();
-        }      
+        }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        public static int contoh()
+        {
+            return 3;
+        }
 
  }
 
