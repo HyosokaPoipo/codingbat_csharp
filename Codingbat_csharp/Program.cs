@@ -21,7 +21,16 @@ namespace Codingbat_csharp
         }
 
 
+        public static string allStar(String str)
+        { 
+            //Kondisi stop
+            if (str.Length < 1) return "";
+            if (str.Length == 1) return str;
 
+
+            //Proses rekursif
+            return str[0] + "*" + allStar(str.Substring(1));
+        }
 
 
 
